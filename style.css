@@ -81,7 +81,7 @@ section.imagem p{
 section#img01{
     background-color: bisque;
     background-image: url(imagem/kratos1.jpg);
-    background-position: center center;
+    background-position: center right;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
